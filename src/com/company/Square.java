@@ -1,7 +1,7 @@
 package com.company;
 
 public class Square extends Shape {
-    public double a;
+    private double a;
 
     public Square(double a) {
         this.a = a;

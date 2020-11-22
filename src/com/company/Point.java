@@ -1,7 +1,8 @@
 package com.company;
 
-public class Point {  public double x;
-    public double y;
+public class Point {
+    private double x;
+    private double y;
 
     public Point(double x, double y) {
         this.x = x;

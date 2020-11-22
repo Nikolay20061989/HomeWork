@@ -1,9 +1,9 @@
 package com.company;
 
 public class Triangle extends Shape {
-    public double a;
-    public double b;
-    public double c;
+    double a;
+    private double b;
+    private double c;
 
     public Triangle(double a, double b, double c) {
         this.a = a;
